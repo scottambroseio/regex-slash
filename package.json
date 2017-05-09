@@ -1,0 +1,21 @@
+{
+    "name": "regex-slash",
+    "version": "1.0.0",
+    "description": "Convert regex pattern strings for Windows backslash paths to Unix paths",
+    "main": "index.js",
+    "repository": "https://github.com/scottrangerio/regex-slash.git",
+    "author": "Scott Ranger <millenniumnight@googlemail.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^20.0.0"
+    },
+    "jest": {
+        "automock": false
+    },
+    "engines": {
+        "node": ">=4.0.0"
+    },
+    "scripts": {
+        "test": "jest"
+    }
+}
