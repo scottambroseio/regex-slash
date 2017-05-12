@@ -1,6 +1,6 @@
 {
     "name": "regex-slash",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Convert regex pattern strings for Windows backslash paths to Unix paths",
     "main": "index.js",
     "repository": "https://github.com/scottrangerio/regex-slash.git",
